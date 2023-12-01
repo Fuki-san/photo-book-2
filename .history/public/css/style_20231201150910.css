@@ -165,39 +165,5 @@ ul {
     #header {
         padding: 0 10px;
     }
-    #index{
-        padding: 40px 20px;
-    }
-    .list{
-        flex-direction: column;
-    }
-    .list li{
-        width: 100%;
-        text-align: center;
-    }
-    #detail{
-        padding: 40px 20px;
-    }
-    #detail .flex{
-        flex-direction: column;
-    }
-    #detail dl{
-        width: 100%;
-        border-right: none;
-        border-bottom: solid 1px #333;
-        padding: 0 0 40px 0;
-        display: flex;
-        flex-wrap: wrap;
-    }
-    #detail dt{
-        width: 35%;
-    }
-    #detail dd{
-        width: 65%;
-    }
-    #detail .text{
-        text-align: center;
-        width: 100%;
-        padding: 40px 0 0 0;
-    }
+    
 }

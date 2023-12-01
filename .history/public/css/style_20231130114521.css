@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+html{
+    font-size: 100%;
+}
+body{
+    color: #333;
+    font-size: 0.875rem;
+}
+img{
+    max-width: 100%;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.inner{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+/* header */
+#header{
+    margin: 40px 0 10px 0;
+}
+#header .site-title{
+    width: 160px;
+    line-height: 1px;
+}
+#header .site-title a{
+    display: block;
+}
+/* indexx */
+
+
